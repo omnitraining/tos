@@ -1,2 +1,2 @@
 # tos
-Exercices proposées lors de la formation sut TOS
+Exercices proposées lors de la formation sur TOS
